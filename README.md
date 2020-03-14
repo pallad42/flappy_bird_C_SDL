@@ -9,6 +9,7 @@ Flappy Bird using Pure C & SDL2
 > **Linux**: Open terminal in root folder with file 'Makefile' and type in 'make all', then just run /bin/program.  
 Warning: I was testing Makefile only on Windows 7, 'make clean' will be not working on Linux!
 
-## Screenshoots
+## Screenshots
 ![img1](img1.png)
 ![img2](img2.png)
+![img3](img3.png)
