@@ -5,7 +5,7 @@ Flappy Bird using Pure C & SDL2
 > **Linux**: You must to compile all files.
 
 ## How to compile?
-> **Windows**: Just run compile_and_run.bat  
+> **Windows**: Just run compile_and_run.bat.  
 > **Linux**: Open terminal in root folder with file 'Makefile' and type in 'make all', then just run /bin/program.  
 Warning: I was testing Makefile only on Windows 7, 'make clean' will be not working on Linux!
 
