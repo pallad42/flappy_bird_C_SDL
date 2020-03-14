@@ -1,0 +1,1 @@
+cls && mingw32-make clean && cls && mingw32-make -s all && start cmd /c "cd bin\ && program.exe"
